@@ -1,6 +1,51 @@
 {
-  "note": "此文件由 GitHub Actions 自动更新，首次部署后请手动触发 workflow 生成真实数据",
-  "updated_at": "1970-01-01T00:00:00Z",
-  "lotteries": {},
-  "summary": []
+  "updated_at": "2026-05-31T02:27:35Z",
+  "lotteries": {
+    "ssq": {
+      "issue": "26060",
+      "date": "2026-05-28",
+      "red": [
+        "07",
+        "09",
+        "10",
+        "16",
+        "22",
+        "27"
+      ],
+      "blue": [
+        "11"
+      ]
+    },
+    "dlt": {
+      "issue": "26059",
+      "date": "2026-05-30",
+      "front": [
+        "06",
+        "13",
+        "17",
+        "19",
+        "26"
+      ],
+      "back": [
+        "07",
+        "08"
+      ]
+    }
+  },
+  "summary": [
+    {
+      "code": "ssq",
+      "name": "双色球",
+      "total": 3457,
+      "latest_issue": "26060",
+      "latest_date": "2026-05-28"
+    },
+    {
+      "code": "dlt",
+      "name": "超级大乐透",
+      "total": 2877,
+      "latest_issue": "26059",
+      "latest_date": "2026-05-30"
+    }
+  ]
 }
